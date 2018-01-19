@@ -30,7 +30,7 @@ function CharacterTweakData:_presets(tweak_data)
 				}
 			},
 			preemptive = {
-				chance = 0.9,
+				chance = 0.8,
 				check_timeout = {0, 3},
 				variations = {
 					side_step = {
